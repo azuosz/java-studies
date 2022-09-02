@@ -8,16 +8,16 @@ public class Main {
 
       Scanner sc = new Scanner(System.in);
 
-      double largura;
-      double comprimento;
+
+
       double valorDoMetro;
       double area;
       double preco;
 
       System.out.print("Digite a largura do terreno: ");
-      largura = sc.nextDouble();
+      double largura = sc.nextDouble();
       System.out.print("Agora digite o comprimento: ");
-      comprimento = sc.nextDouble();
+      double comprimento = sc.nextDouble();
       System.out.print("Agora digite o valor do metro quadrado: ");
       valorDoMetro = sc.nextDouble();
 
