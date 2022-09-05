@@ -10,9 +10,7 @@ public class Main {
 
 
 
-      double valorDoMetro;
-      double area;
-      double preco;
+      double valorDoMetro, area, preco;
 
       System.out.print("Digite a largura do terreno: ");
       double largura = sc.nextDouble();
