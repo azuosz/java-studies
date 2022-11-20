@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.util.Locale;
 
 
-public class Main {
+public class exercise1 {
 
     public static void main(String[] args) {
 
