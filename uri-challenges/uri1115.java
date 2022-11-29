@@ -10,6 +10,7 @@ public class uri1115 {
         int y = sc.nextInt();
 
         while (x != 0 && y != 0) {
+            
             if (x > 0 && y > 0) {
                 System.out.println("primeiro");
             }
