@@ -25,6 +25,8 @@ public class uri1117 {
         double media = (nota1 + nota2) / 2;
 
         System.out.printf("media = %.2f%n", media);
+        
+        sc.close();
 
     }
 
